@@ -1,0 +1,2 @@
+# ApiCalculadora
+Estudos .NET Core
